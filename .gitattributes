@@ -1,3 +1,5 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
 * annex.largefiles=((mimeencoding=binary)and(largerthan=0))
+code/create_csv.py annex.largefiles=nothing
+code/imaging_data.csv annex.largefiles=nothing
