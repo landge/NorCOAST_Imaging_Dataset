@@ -13,6 +13,11 @@ def read_imaging_data(directory):
     imaging_data = [f for f in Path(directory).glob('**/*') if f.is_file()]
     return imaging_data
 
+def check_term_in_modality(term):
+    if 'SWAN' in term:
+        return 'SWI'
+    elif 'MR-T1' in term:
+        return 'T1'
 
 def create_columns_from_path(imaging_data):
     '''Create a list of subject ids, session ids, modalities, file names and file paths'''
@@ -30,10 +35,10 @@ def create_columns_from_path(imaging_data):
             file_paths.append(str(f))
             examinations.append(f.name.split('.')[0].split('_')[-1])
             if not '-MR' in f.parts[3]:
-                modalities.append(f.parts[4])
+                modalities.append(check_term_in_modality(f.parts[4]))
                 file_names.append(f.parts[5].split('.')[0])
             else:
-                modalities.append(f.name.split('.')[0].split('_')[-1])
+                modalities.append(check_term_in_modality(f.name.split('.')[0].split('_')[-1]))
                 file_names.append(f.parts[5].split('.')[0])
 
 
