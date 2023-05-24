@@ -2773,7 +2773,7 @@ sub-300154,ses-clinical,DWI,sub-300154_ses-clinical_DWI,../the_complete_NorCOAST
 sub-300154,ses-clinical,MRA,sub-300154_ses-clinical_MRA,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/MRA/sub-300154_ses-clinical_MRA.nii.gz,MRA
 sub-300154,ses-clinical,T2,sub-300154_ses-clinical_T2,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/T2/sub-300154_ses-clinical_T2.nii.gz,T2
 sub-300154,ses-clinical,T2,sub-300154_ses-clinical_T2,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/T2/sub-300154_ses-clinical_T2.json,T2
-sub-300154,ses-clinical,MRI-T1,sub-300154_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/MRI-T1/sub-300154_ses-clinical_MRI_T1.json,T1
+sub-300154,ses-clinical,T1,sub-300154_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/MRI-T1/sub-300154_ses-clinical_MRI_T1.json,T1
 sub-300154,ses-clinical,ADC,sub-300154_ses-clinical_ADC,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/ADC/sub-300154_ses-clinical_ADC.nii.gz,ADC
 sub-300154,ses-clinical,ADC,sub-300154_ses-clinical_ADC,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/ADC/sub-300154_ses-clinical_ADC.bvec,ADC
 sub-300154,ses-clinical,ADC,sub-300154_ses-clinical_ADC,../the_complete_NorCOAST_dataset/sub-300154/ses-clinical/ADC/sub-300154_ses-clinical_ADC.json,ADC
@@ -9082,8 +9082,8 @@ sub-300596,ses-clinical,DWI,sub-300596_ses-clinical_DWI,../the_complete_NorCOAST
 sub-300596,ses-clinical,DWI,sub-300596_ses-clinical_DWI,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/DWI/sub-300596_ses-clinical_DWI.json,DWI
 sub-300596,ses-clinical,DWI,sub-300596_ses-clinical_DWI,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/DWI/sub-300596_ses-clinical_DWI.nii.gz,DWI
 sub-300596,ses-clinical,T2,sub-300596_ses-clinical_T2,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/T2/sub-300596_ses-clinical_T2.json,T2
-sub-300596,ses-clinical,MRI-T1,sub-300596_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/MRI-T1/sub-300596_ses-clinical_MRI_T1.json,T1
-sub-300596,ses-clinical,MRI-T1,sub-300596_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/MRI-T1/sub-300596_ses-clinical_MRI_T1.nii.gz,T1
+sub-300596,ses-clinical,T1,sub-300596_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/MRI-T1/sub-300596_ses-clinical_MRI_T1.json,T1
+sub-300596,ses-clinical,T1,sub-300596_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/MRI-T1/sub-300596_ses-clinical_MRI_T1.nii.gz,T1
 sub-300596,ses-clinical,ADC,sub-300596_ses-clinical_ADC,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/ADC/sub-300596_ses-clinical_ADC.bvec,ADC
 sub-300596,ses-clinical,ADC,sub-300596_ses-clinical_ADC,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/ADC/sub-300596_ses-clinical_ADC.bval,ADC
 sub-300596,ses-clinical,ADC,sub-300596_ses-clinical_ADC,../the_complete_NorCOAST_dataset/sub-300596/ses-clinical/ADC/sub-300596_ses-clinical_ADC.nii.gz,ADC
@@ -12594,7 +12594,7 @@ sub-400208,ses-study-MR,T2,sub-400208_ses-study-MR_T2,../the_complete_NorCOAST_d
 sub-300177,ses-clinical,T2-FLAIR,sub-300177_ses-clinical_T2-FLAIR,../the_complete_NorCOAST_dataset/sub-300177/ses-clinical/T2-FLAIR/sub-300177_ses-clinical_T2-FLAIR.json,T2-FLAIR
 sub-300177,ses-clinical,DWI,sub-300177_ses-clinical_DWI,../the_complete_NorCOAST_dataset/sub-300177/ses-clinical/DWI/sub-300177_ses-clinical_DWI.json,DWI
 sub-300177,ses-clinical,DWI,sub-300177_ses-clinical_DWI,../the_complete_NorCOAST_dataset/sub-300177/ses-clinical/DWI/sub-300177_ses-clinical_DWI.nii.gz,DWI
-sub-300177,ses-clinical,MRI-T1,sub-300177_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300177/ses-clinical/MRI-T1/sub-300177_ses-clinical_MRI_T1.nii.gz,T1
+sub-300177,ses-clinical,T1,sub-300177_ses-clinical_MRI_T1,../the_complete_NorCOAST_dataset/sub-300177/ses-clinical/MRI-T1/sub-300177_ses-clinical_MRI_T1.nii.gz,T1
 sub-300177,ses-clinical,CT-1,sub-300177_ses-clinical_CT-1,../the_complete_NorCOAST_dataset/sub-300177/ses-clinical/CT-1/sub-300177_ses-clinical_CT-1.nii.gz,CT-1
 sub-300177,ses-study-MR,DWI,sub-300177_ses-study-MR_DWI,../the_complete_NorCOAST_dataset/sub-300177/ses-study-MR/func/sub-300177_ses-study-MR_DWI.bval,DWI
 sub-300177,ses-study-MR,ADC,sub-300177_ses-study-MR_ADC,../the_complete_NorCOAST_dataset/sub-300177/ses-study-MR/func/sub-300177_ses-study-MR_ADC.nii.gz,ADC

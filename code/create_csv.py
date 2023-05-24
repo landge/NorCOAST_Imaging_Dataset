@@ -16,7 +16,7 @@ def read_imaging_data(directory):
 def check_term_in_modality(term):
     if 'SWAN' in term:
         return 'SWI'
-    elif 'MR-T1' in term:
+    elif 'MRI-T1' in term:
         return 'T1'
     else:
         return term
