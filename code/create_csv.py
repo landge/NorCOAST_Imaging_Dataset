@@ -18,6 +18,8 @@ def check_term_in_modality(term):
         return 'SWI'
     elif 'MR-T1' in term:
         return 'T1'
+    else:
+        return term
 
 def create_columns_from_path(imaging_data):
     '''Create a list of subject ids, session ids, modalities, file names and file paths'''
