@@ -27,10 +27,16 @@ def create_columns_from_path(imaging_data):
         if len(f.parts) >=4:
             subject_ids.append(f.parts[2])
             session_ids.append(f.parts[3])
-            modalities.append(f.parts[4])
-            file_names.append(f.parts[4].split('.')[0])
             file_paths.append(str(f))
             examinations.append(f.name.split('.')[0].split('_')[-1])
+            if not '-MR' in f.parts[3]:
+                modalities.append(f.parts[4])
+                file_names.append(f.parts[5].split('.')[0])
+            else:
+                modalities.append(f.name.split('.')[0].split('_')[-1])
+                file_names.append(f.parts[5].split('.')[0])
+
+
 
     return subject_ids, session_ids, modalities, file_names, file_paths, examinations
 
