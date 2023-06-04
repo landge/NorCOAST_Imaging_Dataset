@@ -6,7 +6,8 @@ subject-id, session-id, modality, file-name, file-path
 import pandas as pd
 from pathlib import Path
 
-data_directory = Path('../the_complete_NorCOAST_dataset')
+data_directory = Path('~/NorCOAST/nc_niftis_all_subjects')
+csv_filename = 'nc_niftis_all_subjects.csv'
 
 '''Create a list of all the imaging data files'''
 def read_imaging_data(directory):
@@ -89,7 +90,7 @@ def main():
     imaging_data = read_imaging_data(data_directory)
     subject_ids, session_ids, modalities, file_names, file_paths, examinations, order = create_columns_from_path(imaging_data)
     df = create_dataframe(subject_ids, session_ids, modalities, file_names, file_paths, examinations, order)
-    df.to_csv('imaging_data.csv', index=False)
+    df.to_csv(csv_filename, index=False)
 
 '''Get image type from file name'''
 def get_image_type(file_name):
