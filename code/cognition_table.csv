@@ -1,0 +1,816 @@
+,pNo,Hosp,cognitive_status_model_b_T1,cognitive_status_model_b_T2,subject-id,Cognitive testing
+0,1,St. Olavs Hospital,0,1,sub-400001,Cognitive testing T1
+1,2,St. Olavs Hospital,2,1,sub-400002,Cognitive testing T1
+2,3,St. Olavs Hospital,1,0,sub-400003,Cognitive testing T1
+3,4,St. Olavs Hospital,0, ,sub-400004,Cognitive testing T1
+4,5,St. Olavs Hospital, , ,sub-400005,
+5,6,St. Olavs Hospital, , ,sub-400006,
+6,7,St. Olavs Hospital,2,2,sub-400007,Cognitive testing T1
+7,8,St. Olavs Hospital, , ,sub-400008,
+8,9,St. Olavs Hospital, , ,sub-400009,
+9,10,St. Olavs Hospital,0,2,sub-400010,Cognitive testing T1
+10,11,St. Olavs Hospital,2,2,sub-400011,Cognitive testing T1
+11,12,St. Olavs Hospital,0,0,sub-400012,Cognitive testing T1
+12,13,St. Olavs Hospital,1,0,sub-400013,Cognitive testing T1
+13,14,St. Olavs Hospital,2, ,sub-400014,Cognitive testing T1
+14,15,St. Olavs Hospital, ,2,sub-400015,Cognitive testing T2
+15,16,St. Olavs Hospital,0,1,sub-400016,Cognitive testing T1
+16,17,St. Olavs Hospital,0,0,sub-400017,Cognitive testing T1
+17,18,St. Olavs Hospital, , ,sub-400018,
+18,19,St. Olavs Hospital, , ,sub-400019,
+19,20,St. Olavs Hospital,1,1,sub-400020,Cognitive testing T1
+20,21,St. Olavs Hospital, , ,sub-400021,
+21,22,St. Olavs Hospital,2,2,sub-400022,Cognitive testing T1
+22,23,St. Olavs Hospital,1,0,sub-400023,Cognitive testing T1
+23,24,St. Olavs Hospital,0,0,sub-400024,Cognitive testing T1
+24,25,St. Olavs Hospital, ,2,sub-400025,Cognitive testing T2
+25,27,St. Olavs Hospital, , ,sub-400027,
+26,28,St. Olavs Hospital,0,0,sub-400028,Cognitive testing T1
+27,29,St. Olavs Hospital,0,1,sub-400029,Cognitive testing T1
+28,30,St. Olavs Hospital,1,1,sub-400030,Cognitive testing T1
+29,31,St. Olavs Hospital,0,0,sub-400031,Cognitive testing T1
+30,32,St. Olavs Hospital, , ,sub-400032,
+31,33,St. Olavs Hospital,2,2,sub-400033,Cognitive testing T1
+32,34,St. Olavs Hospital,2,2,sub-400034,Cognitive testing T1
+33,35,St. Olavs Hospital,0, ,sub-400035,Cognitive testing T1
+34,36,St. Olavs Hospital,1,1,sub-400036,Cognitive testing T1
+35,37,St. Olavs Hospital,1,1,sub-400037,Cognitive testing T1
+36,38,St. Olavs Hospital,1,1,sub-400038,Cognitive testing T1
+37,39,St. Olavs Hospital,0,0,sub-400039,Cognitive testing T1
+38,40,St. Olavs Hospital,2, ,sub-400040,Cognitive testing T1
+39,41,St. Olavs Hospital, , ,sub-400041,
+40,42,St. Olavs Hospital,2, ,sub-400042,Cognitive testing T1
+41,43,St. Olavs Hospital,0,0,sub-400043,Cognitive testing T1
+42,44,St. Olavs Hospital, , ,sub-400044,
+43,45,St. Olavs Hospital, , ,sub-400045,
+44,46,St. Olavs Hospital,0,0,sub-400046,Cognitive testing T1
+45,47,St. Olavs Hospital, , ,sub-400047,
+46,48,St. Olavs Hospital, , ,sub-400048,
+47,49,St. Olavs Hospital, , ,sub-400049,
+48,50,St. Olavs Hospital,0,1,sub-400050,Cognitive testing T1
+49,51,St. Olavs Hospital, , ,sub-400051,
+50,52,St. Olavs Hospital,0,0,sub-400052,Cognitive testing T1
+51,53,St. Olavs Hospital,0, ,sub-400053,Cognitive testing T1
+52,54,St. Olavs Hospital,1,1,sub-400054,Cognitive testing T1
+53,55,St. Olavs Hospital,2,2,sub-400055,Cognitive testing T1
+54,56,St. Olavs Hospital,2,2,sub-400056,Cognitive testing T1
+55,57,St. Olavs Hospital,1,1,sub-400057,Cognitive testing T1
+56,58,St. Olavs Hospital,2, ,sub-400058,Cognitive testing T1
+57,59,St. Olavs Hospital, , ,sub-400059,
+58,60,St. Olavs Hospital,1,0,sub-400060,Cognitive testing T1
+59,61,St. Olavs Hospital,2,2,sub-400061,Cognitive testing T1
+60,62,St. Olavs Hospital,2,0,sub-400062,Cognitive testing T1
+61,63,St. Olavs Hospital, , ,sub-400063,
+62,64,St. Olavs Hospital,2, ,sub-400064,Cognitive testing T1
+63,66,St. Olavs Hospital,1,1,sub-400066,Cognitive testing T1
+64,67,St. Olavs Hospital,1,0,sub-400067,Cognitive testing T1
+65,68,St. Olavs Hospital,2, ,sub-400068,Cognitive testing T1
+66,69,St. Olavs Hospital,0,1,sub-400069,Cognitive testing T1
+67,70,St. Olavs Hospital,2, ,sub-400070,Cognitive testing T1
+68,71,St. Olavs Hospital, , ,sub-400071,
+69,72,St. Olavs Hospital, , ,sub-400072,
+70,73,St. Olavs Hospital,0,0,sub-400073,Cognitive testing T1
+71,74,St. Olavs Hospital,0, ,sub-400074,Cognitive testing T1
+72,75,St. Olavs Hospital,2,2,sub-400075,Cognitive testing T1
+73,76,St. Olavs Hospital,2,2,sub-400076,Cognitive testing T1
+74,77,St. Olavs Hospital,1,0,sub-400077,Cognitive testing T1
+75,78,St. Olavs Hospital,2, ,sub-400078,Cognitive testing T1
+76,79,St. Olavs Hospital,2, ,sub-400079,Cognitive testing T1
+77,80,St. Olavs Hospital, , ,sub-400080,
+78,81,St. Olavs Hospital,2,2,sub-400081,Cognitive testing T1
+79,82,St. Olavs Hospital,2,2,sub-400082,Cognitive testing T1
+80,83,St. Olavs Hospital, , ,sub-400083,
+81,84,St. Olavs Hospital,2, ,sub-400084,Cognitive testing T1
+82,86,St. Olavs Hospital,0,0,sub-400086,Cognitive testing T1
+83,87,St. Olavs Hospital,0,0,sub-400087,Cognitive testing T1
+84,88,St. Olavs Hospital,2,2,sub-400088,Cognitive testing T1
+85,89,St. Olavs Hospital, , ,sub-400089,
+86,90,St. Olavs Hospital,1,1,sub-400090,Cognitive testing T1
+87,91,St. Olavs Hospital, , ,sub-400091,
+88,92,St. Olavs Hospital,0,1,sub-400092,Cognitive testing T1
+89,93,St. Olavs Hospital,0,1,sub-400093,Cognitive testing T1
+90,94,Haukeland Universitetssykehus,0,1,sub-300094,Cognitive testing T1
+91,95,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221095,
+92,96,St. Olavs Hospital,0,0,sub-400096,Cognitive testing T1
+93,97,St. Olavs Hospital,1,0,sub-400097,Cognitive testing T1
+94,98,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221098,Cognitive testing T1
+95,99,"Vestre Viken HF, Sykehuset Asker og Bær",0,1,sub-221099,Cognitive testing T1
+96,100,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221100,Cognitive testing T1
+97,101,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221101,Cognitive testing T1
+98,102,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221102,Cognitive testing T1
+99,103,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221103,Cognitive testing T1
+100,104,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221104,Cognitive testing T1
+101,105,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221105,Cognitive testing T1
+102,106,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221106,Cognitive testing T1
+103,107,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221107,Cognitive testing T1
+104,108,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221108,Cognitive testing T1
+105,109,"Vestre Viken HF, Sykehuset Asker og Bær",2, ,sub-221109,Cognitive testing T1
+106,110,"Vestre Viken HF, Sykehuset Asker og Bær",2, ,sub-221110,Cognitive testing T1
+107,111,"Vestre Viken HF, Sykehuset Asker og Bær",0, ,sub-221111,Cognitive testing T1
+108,113,"Vestre Viken HF, Sykehuset Asker og Bær",0,1,sub-221113,Cognitive testing T1
+109,114,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221114,Cognitive testing T1
+110,115,"Vestre Viken HF, Sykehuset Asker og Bær",1, ,sub-221115,Cognitive testing T1
+111,116,"Vestre Viken HF, Sykehuset Asker og Bær",0,1,sub-221116,Cognitive testing T1
+112,117,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221117,
+113,118,"Vestre Viken HF, Sykehuset Asker og Bær",1, ,sub-221118,Cognitive testing T1
+114,119,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221119,Cognitive testing T1
+115,120,St. Olavs Hospital,1,0,sub-400120,Cognitive testing T1
+116,121,St. Olavs Hospital,1,0,sub-400121,Cognitive testing T1
+117,122,St. Olavs Hospital, , ,sub-400122,
+118,123,St. Olavs Hospital, , ,sub-400123,
+119,125,St. Olavs Hospital, , ,sub-400125,
+120,126,St. Olavs Hospital, , ,sub-400126,
+121,127,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221127,Cognitive testing T1
+122,128,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221128,Cognitive testing T1
+123,129,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221129,Cognitive testing T1
+124,130,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221130,Cognitive testing T1
+125,131,Haukeland Universitetssykehus, , ,sub-300131,
+126,132,Haukeland Universitetssykehus,0,0,sub-300132,Cognitive testing T1
+127,133,"Vestre Viken HF, Sykehuset Asker og Bær",1,2,sub-221133,Cognitive testing T1
+128,134,St. Olavs Hospital,0,0,sub-400134,Cognitive testing T1
+129,135,Haukeland Universitetssykehus, , ,sub-300135,
+130,136,"Vestre Viken HF, Sykehuset Asker og Bær",0,2,sub-221136,Cognitive testing T1
+131,137,St. Olavs Hospital,2,2,sub-400137,Cognitive testing T1
+132,139,St. Olavs Hospital,0,0,sub-400139,Cognitive testing T1
+133,140,St. Olavs Hospital,0, ,sub-400140,Cognitive testing T1
+134,142,Haukeland Universitetssykehus,0,0,sub-300142,Cognitive testing T1
+135,144,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221144,Cognitive testing T1
+136,145,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221145,Cognitive testing T1
+137,146,St. Olavs Hospital, , ,sub-400146,
+138,147,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221147,Cognitive testing T1
+139,148,St. Olavs Hospital,1,1,sub-400148,Cognitive testing T1
+140,149,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221149,Cognitive testing T1
+141,150,Haukeland Universitetssykehus,2, ,sub-300150,Cognitive testing T1
+142,151,St. Olavs Hospital,0,1,sub-400151,Cognitive testing T1
+143,152,St. Olavs Hospital,1,1,sub-400152,Cognitive testing T1
+144,153,St. Olavs Hospital,0,0,sub-400153,Cognitive testing T1
+145,154,Haukeland Universitetssykehus,1,0,sub-300154,Cognitive testing T1
+146,155,St. Olavs Hospital,0,1,sub-400155,Cognitive testing T1
+147,156,Haukeland Universitetssykehus,2,0,sub-300156,Cognitive testing T1
+148,157,St. Olavs Hospital,1,1,sub-400157,Cognitive testing T1
+149,158,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221158,Cognitive testing T1
+150,159,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221159,Cognitive testing T1
+151,160,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221160,Cognitive testing T1
+152,161,St. Olavs Hospital, , ,sub-400161,
+153,163,Haukeland Universitetssykehus,1,1,sub-300163,Cognitive testing T1
+154,164,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221164,Cognitive testing T1
+155,165,"Vestre Viken HF, Sykehuset Asker og Bær",1, ,sub-221165,Cognitive testing T1
+156,166,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221166,Cognitive testing T1
+157,167,Haukeland Universitetssykehus,0,1,sub-300167,Cognitive testing T1
+158,168,Haukeland Universitetssykehus,0,0,sub-300168,Cognitive testing T1
+159,169,St. Olavs Hospital,2,2,sub-400169,Cognitive testing T1
+160,170,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221170,Cognitive testing T1
+161,172,"Vestre Viken HF, Sykehuset Asker og Bær",1, ,sub-221172,Cognitive testing T1
+162,173,St. Olavs Hospital,2,0,sub-400173,Cognitive testing T1
+163,174,Haukeland Universitetssykehus,0,0,sub-300174,Cognitive testing T1
+164,175,St. Olavs Hospital,2,2,sub-400175,Cognitive testing T1
+165,176,St. Olavs Hospital, , ,sub-400176,
+166,177,Haukeland Universitetssykehus, ,1,sub-300177,Cognitive testing T2
+167,178,St. Olavs Hospital,2, ,sub-400178,Cognitive testing T1
+168,179,St. Olavs Hospital,1, ,sub-400179,Cognitive testing T1
+169,181,St. Olavs Hospital, , ,sub-400181,
+170,182,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221182,Cognitive testing T1
+171,183,Haukeland Universitetssykehus,0,2,sub-300183,Cognitive testing T1
+172,184,Haukeland Universitetssykehus, , ,sub-300184,
+173,185,Haukeland Universitetssykehus, , ,sub-300185,
+174,186,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221186,Cognitive testing T1
+175,187,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221187,Cognitive testing T1
+176,188,St. Olavs Hospital, , ,sub-400188,
+177,189,St. Olavs Hospital,0, ,sub-400189,Cognitive testing T1
+178,190,Haukeland Universitetssykehus, , ,sub-300190,
+179,191,St. Olavs Hospital, , ,sub-400191,
+180,192,Haukeland Universitetssykehus,0, ,sub-300192,Cognitive testing T1
+181,193,St. Olavs Hospital, , ,sub-400193,
+182,194,St. Olavs Hospital, , ,sub-400194,
+183,195,St. Olavs Hospital,2, ,sub-400195,Cognitive testing T1
+184,196,Haukeland Universitetssykehus,0, ,sub-300196,Cognitive testing T1
+185,197,St. Olavs Hospital,0, ,sub-400197,Cognitive testing T1
+186,198,St. Olavs Hospital,0,0,sub-400198,Cognitive testing T1
+187,199,Haukeland Universitetssykehus,0,0,sub-300199,Cognitive testing T1
+188,200,"Vestre Viken HF, Sykehuset Asker og Bær",2,0,sub-221200,Cognitive testing T1
+189,202,St. Olavs Hospital,1,2,sub-400202,Cognitive testing T1
+190,203,"Vestre Viken HF, Sykehuset Asker og Bær",0,2,sub-221203,Cognitive testing T1
+191,204,St. Olavs Hospital, , ,sub-400204,
+192,205,St. Olavs Hospital,1,0,sub-400205,Cognitive testing T1
+193,206,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221206,
+194,207,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221207,
+195,208,St. Olavs Hospital,1,1,sub-400208,Cognitive testing T1
+196,209,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221209,Cognitive testing T1
+197,210,Haukeland Universitetssykehus,1, ,sub-300210,Cognitive testing T1
+198,211,Haukeland Universitetssykehus,0,0,sub-300211,Cognitive testing T1
+199,212,St. Olavs Hospital,2, ,sub-400212,Cognitive testing T1
+200,213,St. Olavs Hospital,2, ,sub-400213,Cognitive testing T1
+201,214,St. Olavs Hospital, , ,sub-400214,
+202,215,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221215,
+203,216,St. Olavs Hospital,0, ,sub-400216,Cognitive testing T1
+204,217,St. Olavs Hospital,0,2,sub-400217,Cognitive testing T1
+205,218,Haukeland Universitetssykehus,1, ,sub-300218,Cognitive testing T1
+206,219,Haukeland Universitetssykehus,0, ,sub-300219,Cognitive testing T1
+207,220,"Vestre Viken HF, Sykehuset Asker og Bær",2,0,sub-221220,Cognitive testing T1
+208,221,St. Olavs Hospital,1,0,sub-400221,Cognitive testing T1
+209,222,St. Olavs Hospital,2, ,sub-400222,Cognitive testing T1
+210,223,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221223,Cognitive testing T1
+211,224,St. Olavs Hospital,2,2,sub-400224,Cognitive testing T1
+212,225,Haukeland Universitetssykehus,2,0,sub-300225,Cognitive testing T1
+213,226,St. Olavs Hospital,0,0,sub-400226,Cognitive testing T1
+214,227,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221227,Cognitive testing T1
+215,228,Haukeland Universitetssykehus,2, ,sub-300228,Cognitive testing T1
+216,229,Haukeland Universitetssykehus,0, ,sub-300229,Cognitive testing T1
+217,230,St. Olavs Hospital,1,1,sub-400230,Cognitive testing T1
+218,231,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221231,Cognitive testing T1
+219,232,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221232,Cognitive testing T1
+220,233,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221233,Cognitive testing T1
+221,235,Haukeland Universitetssykehus, , ,sub-300235,
+222,236,Haukeland Universitetssykehus,0,0,sub-300236,Cognitive testing T1
+223,237,Haukeland Universitetssykehus,2,1,sub-300237,Cognitive testing T1
+224,238,Haukeland Universitetssykehus,0,0,sub-300238,Cognitive testing T1
+225,239,St. Olavs Hospital, , ,sub-400239,
+226,240,St. Olavs Hospital,0,0,sub-400240,Cognitive testing T1
+227,241,St. Olavs Hospital, ,0,sub-400241,Cognitive testing T2
+228,242,St. Olavs Hospital,2,2,sub-400242,Cognitive testing T1
+229,243,St. Olavs Hospital,2,2,sub-400243,Cognitive testing T1
+230,244,St. Olavs Hospital,2, ,sub-400244,Cognitive testing T1
+231,245,Haukeland Universitetssykehus, , ,sub-300245,
+232,246,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221246,Cognitive testing T1
+233,247,St. Olavs Hospital, , ,sub-400247,
+234,248,"Oslo Universitetssykehus, Ullevål",2, ,sub-100248,Cognitive testing T1
+235,249,"Oslo Universitetssykehus, Ullevål",0,0,sub-100249,Cognitive testing T1
+236,251,St. Olavs Hospital, , ,sub-400251,
+237,252,St. Olavs Hospital,2,2,sub-400252,Cognitive testing T1
+238,253,St. Olavs Hospital,2, ,sub-400253,Cognitive testing T1
+239,254,Haukeland Universitetssykehus,1, ,sub-300254,Cognitive testing T1
+240,255,St. Olavs Hospital,0,0,sub-400255,Cognitive testing T1
+241,256,St. Olavs Hospital, , ,sub-400256,
+242,257,St. Olavs Hospital,1, ,sub-400257,Cognitive testing T1
+243,258,St. Olavs Hospital,0,2,sub-400258,Cognitive testing T1
+244,259,St. Olavs Hospital,2, ,sub-400259,Cognitive testing T1
+245,261,"Oslo Universitetssykehus, Ullevål", , ,sub-100261,
+246,262,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221262,Cognitive testing T1
+247,263,Haukeland Universitetssykehus, , ,sub-300263,
+248,264,St. Olavs Hospital,1,0,sub-400264,Cognitive testing T1
+249,265,"Oslo Universitetssykehus, Ullevål",0,0,sub-100265,Cognitive testing T1
+250,266,St. Olavs Hospital,1,1,sub-400266,Cognitive testing T1
+251,267,Haukeland Universitetssykehus,0,1,sub-300267,Cognitive testing T1
+252,268,"Vestre Viken HF, Sykehuset Asker og Bær",1, ,sub-221268,Cognitive testing T1
+253,269,St. Olavs Hospital,0,0,sub-400269,Cognitive testing T1
+254,270,Haukeland Universitetssykehus,0,1,sub-300270,Cognitive testing T1
+255,271,St. Olavs Hospital,1,0,sub-400271,Cognitive testing T1
+256,273,"Oslo Universitetssykehus, Ullevål", , ,sub-100273,
+257,275,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221275,Cognitive testing T1
+258,276,St. Olavs Hospital,0, ,sub-400276,Cognitive testing T1
+259,278,"Oslo Universitetssykehus, Ullevål", , ,sub-100278,
+260,279,St. Olavs Hospital,0,0,sub-400279,Cognitive testing T1
+261,280,St. Olavs Hospital,1,1,sub-400280,Cognitive testing T1
+262,282,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221282,Cognitive testing T1
+263,283,Haukeland Universitetssykehus,0,0,sub-300283,Cognitive testing T1
+264,284,"Oslo Universitetssykehus, Ullevål",2,1,sub-100284,Cognitive testing T1
+265,285,Haukeland Universitetssykehus, , ,sub-300285,
+266,286,St. Olavs Hospital, ,2,sub-400286,Cognitive testing T2
+267,287,St. Olavs Hospital,2,1,sub-400287,Cognitive testing T1
+268,288,"Oslo Universitetssykehus, Ullevål", , ,sub-100288,
+269,289,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221289,Cognitive testing T1
+270,290,St. Olavs Hospital,0,0,sub-400290,Cognitive testing T1
+271,291,Haukeland Universitetssykehus,1,1,sub-300291,Cognitive testing T1
+272,292,St. Olavs Hospital,0, ,sub-400292,Cognitive testing T1
+273,293,St. Olavs Hospital, , ,sub-400293,
+274,294,St. Olavs Hospital,0,0,sub-400294,Cognitive testing T1
+275,296,Haukeland Universitetssykehus,0,1,sub-300296,Cognitive testing T1
+276,297,St. Olavs Hospital,0,1,sub-400297,Cognitive testing T1
+277,298,"Oslo Universitetssykehus, Ullevål",1,1,sub-100298,Cognitive testing T1
+278,299,St. Olavs Hospital,0,0,sub-400299,Cognitive testing T1
+279,300,St. Olavs Hospital,1,2,sub-400300,Cognitive testing T1
+280,301,St. Olavs Hospital,2, ,sub-400301,Cognitive testing T1
+281,302,"Vestre Viken HF, Sykehuset Asker og Bær",1,2,sub-221302,Cognitive testing T1
+282,303,"Oslo Universitetssykehus, Ullevål", , ,sub-100303,
+283,304,St. Olavs Hospital, , ,sub-400304,
+284,306,St. Olavs Hospital, , ,sub-400306,
+285,307,St. Olavs Hospital, , ,sub-400307,
+286,308,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221308,Cognitive testing T1
+287,309,St. Olavs Hospital,1,1,sub-400309,Cognitive testing T1
+288,312,"Vestre Viken HF, Sykehuset Asker og Bær",0,1,sub-221312,Cognitive testing T1
+289,313,Haukeland Universitetssykehus,0,0,sub-300313,Cognitive testing T1
+290,314,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221314,Cognitive testing T1
+291,315,Haukeland Universitetssykehus, ,1,sub-300315,Cognitive testing T2
+292,316,"Oslo Universitetssykehus, Ullevål", , ,sub-100316,
+293,317,St. Olavs Hospital,0,0,sub-400317,Cognitive testing T1
+294,318,St. Olavs Hospital, , ,sub-400318,
+295,319,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221319,Cognitive testing T1
+296,320,St. Olavs Hospital,0,0,sub-400320,Cognitive testing T1
+297,321,St. Olavs Hospital,1,0,sub-400321,Cognitive testing T1
+298,322,"Oslo Universitetssykehus, Ullevål",1,0,sub-100322,Cognitive testing T1
+299,323,St. Olavs Hospital,2,2,sub-400323,Cognitive testing T1
+300,324,Haukeland Universitetssykehus,1,1,sub-300324,Cognitive testing T1
+301,325,St. Olavs Hospital,2,2,sub-400325,Cognitive testing T1
+302,326,Haukeland Universitetssykehus, ,1,sub-300326,Cognitive testing T2
+303,328,"Oslo Universitetssykehus, Ullevål",0,0,sub-100328,Cognitive testing T1
+304,329,St. Olavs Hospital,2, ,sub-400329,Cognitive testing T1
+305,330,"Vestre Viken HF, Sykehuset Asker og Bær", ,2,sub-221330,Cognitive testing T2
+306,331,Haukeland Universitetssykehus,0, ,sub-300331,Cognitive testing T1
+307,332,St. Olavs Hospital,2,2,sub-400332,Cognitive testing T1
+308,333,St. Olavs Hospital,2,2,sub-400333,Cognitive testing T1
+309,334,St. Olavs Hospital, , ,sub-400334,
+310,335,Haukeland Universitetssykehus,1,1,sub-300335,Cognitive testing T1
+311,336,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221336,Cognitive testing T1
+312,337,St. Olavs Hospital, , ,sub-400337,
+313,338,"Oslo Universitetssykehus, Ullevål", ,0,sub-100338,Cognitive testing T2
+314,340,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221340,Cognitive testing T1
+315,343,"Oslo Universitetssykehus, Ullevål",2,1,sub-100343,Cognitive testing T1
+316,344,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221344,Cognitive testing T1
+317,345,St. Olavs Hospital,0,0,sub-400345,Cognitive testing T1
+318,346,St. Olavs Hospital, , ,sub-400346,
+319,347,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221347,Cognitive testing T1
+320,348,Haukeland Universitetssykehus,2,1,sub-300348,Cognitive testing T1
+321,349,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221349,Cognitive testing T1
+322,350,Haukeland Universitetssykehus,1,1,sub-300350,Cognitive testing T1
+323,351,"Oslo Universitetssykehus, Ullevål",0,0,sub-100351,Cognitive testing T1
+324,352,"Vestre Viken HF, Sykehuset Asker og Bær",1, ,sub-221352,Cognitive testing T1
+325,353,Haukeland Universitetssykehus,1,0,sub-300353,Cognitive testing T1
+326,355,Haukeland Universitetssykehus,0,1,sub-300355,Cognitive testing T1
+327,356,"Oslo Universitetssykehus, Ullevål",0,0,sub-100356,Cognitive testing T1
+328,357,St. Olavs Hospital,2, ,sub-400357,Cognitive testing T1
+329,358,St. Olavs Hospital,1,1,sub-400358,Cognitive testing T1
+330,359,St. Olavs Hospital,2, ,sub-400359,Cognitive testing T1
+331,360,"Oslo Universitetssykehus, Ullevål",1,1,sub-100360,Cognitive testing T1
+332,361,Haukeland Universitetssykehus,2,2,sub-300361,Cognitive testing T1
+333,362,St. Olavs Hospital,0,0,sub-400362,Cognitive testing T1
+334,363,"Oslo Universitetssykehus, Ullevål", , ,sub-100363,
+335,364,Haukeland Universitetssykehus,1,1,sub-300364,Cognitive testing T1
+336,365,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221365,Cognitive testing T1
+337,366,St. Olavs Hospital,1,1,sub-400366,Cognitive testing T1
+338,367,"Oslo Universitetssykehus, Ullevål",0,0,sub-100367,Cognitive testing T1
+339,368,St. Olavs Hospital, , ,sub-400368,
+340,369,Haukeland Universitetssykehus,1,1,sub-300369,Cognitive testing T1
+341,370,St. Olavs Hospital,0,0,sub-400370,Cognitive testing T1
+342,371,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221371,Cognitive testing T1
+343,372,St. Olavs Hospital, , ,sub-400372,
+344,373,St. Olavs Hospital,1,1,sub-400373,Cognitive testing T1
+345,374,St. Olavs Hospital, , ,sub-400374,
+346,375,St. Olavs Hospital, , ,sub-400375,
+347,376,St. Olavs Hospital,0,0,sub-400376,Cognitive testing T1
+348,377,Haukeland Universitetssykehus, , ,sub-300377,
+349,378,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221378,Cognitive testing T1
+350,379,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221379,Cognitive testing T1
+351,380,St. Olavs Hospital,1,1,sub-400380,Cognitive testing T1
+352,381,"Oslo Universitetssykehus, Ullevål", , ,sub-100381,
+353,382,Haukeland Universitetssykehus,2, ,sub-300382,Cognitive testing T1
+354,383,"Vestre Viken HF, Sykehuset Asker og Bær",2, ,sub-221383,Cognitive testing T1
+355,384,St. Olavs Hospital,0,0,sub-400384,Cognitive testing T1
+356,385,St. Olavs Hospital,1,1,sub-400385,Cognitive testing T1
+357,386,St. Olavs Hospital,0,2,sub-400386,Cognitive testing T1
+358,387,Haukeland Universitetssykehus,2, ,sub-300387,Cognitive testing T1
+359,388,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221388,Cognitive testing T1
+360,389,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221389,Cognitive testing T1
+361,390,St. Olavs Hospital,1,1,sub-400390,Cognitive testing T1
+362,391,St. Olavs Hospital,2,1,sub-400391,Cognitive testing T1
+363,392,St. Olavs Hospital, , ,sub-400392,
+364,394,Haukeland Universitetssykehus,0,2,sub-300394,Cognitive testing T1
+365,395,St. Olavs Hospital, , ,sub-400395,
+366,396,Haukeland Universitetssykehus, , ,sub-300396,
+367,397,St. Olavs Hospital,2, ,sub-400397,Cognitive testing T1
+368,398,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221398,Cognitive testing T1
+369,399,St. Olavs Hospital,0,0,sub-400399,Cognitive testing T1
+370,400,Haukeland Universitetssykehus, ,0,sub-300400,Cognitive testing T2
+371,402,"Vestre Viken HF, Sykehuset Asker og Bær",0,1,sub-221402,Cognitive testing T1
+372,403,"Oslo Universitetssykehus, Ullevål", , ,sub-100403,
+373,404,St. Olavs Hospital,0,0,sub-400404,Cognitive testing T1
+374,405,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221405,Cognitive testing T1
+375,406,Haukeland Universitetssykehus,0,0,sub-300406,Cognitive testing T1
+376,407,St. Olavs Hospital,2, ,sub-400407,Cognitive testing T1
+377,408,"Oslo Universitetssykehus, Ullevål",0,0,sub-100408,Cognitive testing T1
+378,409,St. Olavs Hospital,1,1,sub-400409,Cognitive testing T1
+379,410,St. Olavs Hospital,0,0,sub-400410,Cognitive testing T1
+380,411,St. Olavs Hospital,0,1,sub-400411,Cognitive testing T1
+381,412,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221412,Cognitive testing T1
+382,413,St. Olavs Hospital,0,1,sub-400413,Cognitive testing T1
+383,414,"Vestre Viken HF, Sykehuset Asker og Bær",0,1,sub-221414,Cognitive testing T1
+384,415,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221415,Cognitive testing T1
+385,416,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221416,Cognitive testing T1
+386,417,St. Olavs Hospital, , ,sub-400417,
+387,418,Haukeland Universitetssykehus, , ,sub-300418,
+388,419,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221419,Cognitive testing T1
+389,420,Haukeland Universitetssykehus, , ,sub-300420,
+390,421,St. Olavs Hospital,2, ,sub-400421,Cognitive testing T1
+391,422,Haukeland Universitetssykehus,0,0,sub-300422,Cognitive testing T1
+392,423,St. Olavs Hospital,0,0,sub-400423,Cognitive testing T1
+393,424,Haukeland Universitetssykehus, , ,sub-300424,
+394,425,Haukeland Universitetssykehus,0, ,sub-300425,Cognitive testing T1
+395,426,"Oslo Universitetssykehus, Ullevål",2,2,sub-100426,Cognitive testing T1
+396,427,St. Olavs Hospital,2,1,sub-400427,Cognitive testing T1
+397,428,St. Olavs Hospital,1,1,sub-400428,Cognitive testing T1
+398,429,"Oslo Universitetssykehus, Ullevål", , ,sub-100429,
+399,431,"Oslo Universitetssykehus, Ullevål",0,0,sub-100431,Cognitive testing T1
+400,432,"Oslo Universitetssykehus, Ullevål",2, ,sub-100432,Cognitive testing T1
+401,433,St. Olavs Hospital,0,0,sub-400433,Cognitive testing T1
+402,434,"Oslo Universitetssykehus, Ullevål", , ,sub-100434,
+403,435,St. Olavs Hospital,0,0,sub-400435,Cognitive testing T1
+404,436,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221436,Cognitive testing T1
+405,437,St. Olavs Hospital,0, ,sub-400437,Cognitive testing T1
+406,438,St. Olavs Hospital, , ,sub-400438,
+407,439,St. Olavs Hospital, , ,sub-400439,
+408,440,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221440,Cognitive testing T1
+409,441,Haukeland Universitetssykehus, ,1,sub-300441,Cognitive testing T2
+410,442,"Oslo Universitetssykehus, Ullevål", , ,sub-100442,
+411,443,St. Olavs Hospital, , ,sub-400443,
+412,444,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221444,Cognitive testing T1
+413,445,Haukeland Universitetssykehus, , ,sub-300445,
+414,446,"Oslo Universitetssykehus, Ullevål", , ,sub-100446,
+415,447,Haukeland Universitetssykehus, ,1,sub-300447,Cognitive testing T2
+416,448,"Vestre Viken HF, Sykehuset Asker og Bær",0,2,sub-221448,Cognitive testing T1
+417,449,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221449,Cognitive testing T1
+418,450,St. Olavs Hospital, , ,sub-400450,
+419,451,Haukeland Universitetssykehus, ,0,sub-300451,Cognitive testing T2
+420,452,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221452,Cognitive testing T1
+421,453,Haukeland Universitetssykehus, ,0,sub-300453,Cognitive testing T2
+422,454,"Oslo Universitetssykehus, Ullevål",0,0,sub-100454,Cognitive testing T1
+423,455,St. Olavs Hospital,0,1,sub-400455,Cognitive testing T1
+424,456,St. Olavs Hospital,0,0,sub-400456,Cognitive testing T1
+425,457,Haukeland Universitetssykehus,1,0,sub-300457,Cognitive testing T1
+426,458,St. Olavs Hospital, ,0,sub-400458,Cognitive testing T2
+427,459,St. Olavs Hospital,2,2,sub-400459,Cognitive testing T1
+428,460,St. Olavs Hospital,1,1,sub-400460,Cognitive testing T1
+429,461,St. Olavs Hospital,2,0,sub-400461,Cognitive testing T1
+430,462,St. Olavs Hospital,1,1,sub-400462,Cognitive testing T1
+431,463,St. Olavs Hospital, , ,sub-400463,
+432,464,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221464,Cognitive testing T1
+433,465,St. Olavs Hospital,1,1,sub-400465,Cognitive testing T1
+434,466,St. Olavs Hospital,0,0,sub-400466,Cognitive testing T1
+435,467,"Oslo Universitetssykehus, Ullevål",0,0,sub-100467,Cognitive testing T1
+436,468,"Vestre Viken HF, Sykehuset Asker og Bær",1, ,sub-221468,Cognitive testing T1
+437,469,"Oslo Universitetssykehus, Ullevål",0,0,sub-100469,Cognitive testing T1
+438,470,St. Olavs Hospital,0,1,sub-400470,Cognitive testing T1
+439,471,St. Olavs Hospital,2, ,sub-400471,Cognitive testing T1
+440,472,"Oslo Universitetssykehus, Ullevål",0,0,sub-100472,Cognitive testing T1
+441,473,"Oslo Universitetssykehus, Ullevål",2,2,sub-100473,Cognitive testing T1
+442,474,St. Olavs Hospital, , ,sub-400474,
+443,475,St. Olavs Hospital,2, ,sub-400475,Cognitive testing T1
+444,476,"Vestre Viken HF, Sykehuset Asker og Bær",2, ,sub-221476,Cognitive testing T1
+445,477,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221477,Cognitive testing T1
+446,478,Haukeland Universitetssykehus,2,2,sub-300478,Cognitive testing T1
+447,479,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221479,Cognitive testing T1
+448,480,Haukeland Universitetssykehus, , ,sub-300480,
+449,481,St. Olavs Hospital, , ,sub-400481,
+450,482,"Oslo Universitetssykehus, Ullevål", ,2,sub-100482,Cognitive testing T2
+451,483,Haukeland Universitetssykehus,1,1,sub-300483,Cognitive testing T1
+452,484,St. Olavs Hospital,2,2,sub-400484,Cognitive testing T1
+453,486,St. Olavs Hospital,2,1,sub-400486,Cognitive testing T1
+454,487,St. Olavs Hospital, , ,sub-400487,
+455,488,St. Olavs Hospital, , ,sub-400488,
+456,489,"Oslo Universitetssykehus, Ullevål",0,0,sub-100489,Cognitive testing T1
+457,490,Haukeland Universitetssykehus,0,0,sub-300490,Cognitive testing T1
+458,491,Haukeland Universitetssykehus, , ,sub-300491,
+459,492,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221492,Cognitive testing T1
+460,493,Haukeland Universitetssykehus,0,0,sub-300493,Cognitive testing T1
+461,494,Haukeland Universitetssykehus, , ,sub-300494,
+462,495,St. Olavs Hospital,0,2,sub-400495,Cognitive testing T1
+463,496,"Oslo Universitetssykehus, Ullevål", , ,sub-100496,
+464,497,St. Olavs Hospital, , ,sub-400497,
+465,498,Haukeland Universitetssykehus,0,0,sub-300498,Cognitive testing T1
+466,500,Haukeland Universitetssykehus, , ,sub-300500,
+467,501,"Oslo Universitetssykehus, Ullevål",1,1,sub-100501,Cognitive testing T1
+468,502,Haukeland Universitetssykehus,0,0,sub-300502,Cognitive testing T1
+469,503,"Oslo Universitetssykehus, Ullevål",1,1,sub-100503,Cognitive testing T1
+470,504,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221504,Cognitive testing T1
+471,505,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221505,Cognitive testing T1
+472,507,Haukeland Universitetssykehus, ,0,sub-300507,Cognitive testing T2
+473,508,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221508,
+474,509,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221509,Cognitive testing T1
+475,510,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221510,Cognitive testing T1
+476,511,Haukeland Universitetssykehus,1,1,sub-300511,Cognitive testing T1
+477,512,St. Olavs Hospital,0,0,sub-400512,Cognitive testing T1
+478,513,"Vestre Viken HF, Sykehuset Asker og Bær",2,0,sub-221513,Cognitive testing T1
+479,514,St. Olavs Hospital, ,2,sub-400514,Cognitive testing T2
+480,515,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221515,Cognitive testing T1
+481,516,"Oslo Universitetssykehus, Ullevål",0, ,sub-100516,Cognitive testing T1
+482,517,St. Olavs Hospital,0,0,sub-400517,Cognitive testing T1
+483,518,Haukeland Universitetssykehus, , ,sub-300518,
+484,519,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221519,
+485,520,St. Olavs Hospital,2,2,sub-400520,Cognitive testing T1
+486,521,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221521,Cognitive testing T1
+487,522,"Oslo Universitetssykehus, Ullevål",1,0,sub-100522,Cognitive testing T1
+488,523,"Oslo Universitetssykehus, Ullevål",0,0,sub-100523,Cognitive testing T1
+489,524,St. Olavs Hospital,0,0,sub-400524,Cognitive testing T1
+490,525,St. Olavs Hospital, , ,sub-400525,
+491,526,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221526,Cognitive testing T1
+492,527,St. Olavs Hospital,0,0,sub-400527,Cognitive testing T1
+493,528,St. Olavs Hospital, , ,sub-400528,
+494,529,St. Olavs Hospital,0,0,sub-400529,Cognitive testing T1
+495,531,St. Olavs Hospital, , ,sub-400531,
+496,532,Haukeland Universitetssykehus, , ,sub-300532,
+497,533,St. Olavs Hospital,0,0,sub-400533,Cognitive testing T1
+498,534,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221534,Cognitive testing T1
+499,535,Haukeland Universitetssykehus,2,1,sub-300535,Cognitive testing T1
+500,536,Haukeland Universitetssykehus,0,0,sub-300536,Cognitive testing T1
+501,537,St. Olavs Hospital,0,0,sub-400537,Cognitive testing T1
+502,538,"Oslo Universitetssykehus, Ullevål", , ,sub-100538,
+503,539,St. Olavs Hospital,1,1,sub-400539,Cognitive testing T1
+504,540,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221540,
+505,541,St. Olavs Hospital,0,0,sub-400541,Cognitive testing T1
+506,542,Haukeland Universitetssykehus,0,0,sub-300542,Cognitive testing T1
+507,543,St. Olavs Hospital,1,1,sub-400543,Cognitive testing T1
+508,544,Haukeland Universitetssykehus,2,2,sub-300544,Cognitive testing T1
+509,545,"Oslo Universitetssykehus, Ullevål",0,0,sub-100545,Cognitive testing T1
+510,546,"Vestre Viken HF, Sykehuset Asker og Bær",0,2,sub-221546,Cognitive testing T1
+511,547,St. Olavs Hospital, , ,sub-400547,
+512,548,Haukeland Universitetssykehus, , ,sub-300548,
+513,549,St. Olavs Hospital,0,0,sub-400549,Cognitive testing T1
+514,550,"Vestre Viken HF, Sykehuset Asker og Bær",2, ,sub-221550,Cognitive testing T1
+515,551,Haukeland Universitetssykehus,2,1,sub-300551,Cognitive testing T1
+516,552,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221552,Cognitive testing T1
+517,553,St. Olavs Hospital,1, ,sub-400553,Cognitive testing T1
+518,554,Haukeland Universitetssykehus,1,1,sub-300554,Cognitive testing T1
+519,555,St. Olavs Hospital,1,1,sub-400555,Cognitive testing T1
+520,556,Haukeland Universitetssykehus,1,0,sub-300556,Cognitive testing T1
+521,557,Haukeland Universitetssykehus,0, ,sub-300557,Cognitive testing T1
+522,558,Haukeland Universitetssykehus,1,1,sub-300558,Cognitive testing T1
+523,559,Haukeland Universitetssykehus,0,0,sub-300559,Cognitive testing T1
+524,560,Haukeland Universitetssykehus,0, ,sub-300560,Cognitive testing T1
+525,561,St. Olavs Hospital,1,0,sub-400561,Cognitive testing T1
+526,562,St. Olavs Hospital, , ,sub-400562,
+527,563,Haukeland Universitetssykehus, , ,sub-300563,
+528,564,St. Olavs Hospital,1, ,sub-400564,Cognitive testing T1
+529,565,St. Olavs Hospital, , ,sub-400565,
+530,566,St. Olavs Hospital,0,1,sub-400566,Cognitive testing T1
+531,567,St. Olavs Hospital,0, ,sub-400567,Cognitive testing T1
+532,568,St. Olavs Hospital, , ,sub-400568,
+533,569,"Oslo Universitetssykehus, Ullevål",0,0,sub-100569,Cognitive testing T1
+534,570,St. Olavs Hospital,2,2,sub-400570,Cognitive testing T1
+535,571,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221571,Cognitive testing T1
+536,572,St. Olavs Hospital,1,0,sub-400572,Cognitive testing T1
+537,573,St. Olavs Hospital,1,1,sub-400573,Cognitive testing T1
+538,574,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221574,
+539,575,"Oslo Universitetssykehus, Ullevål",1, ,sub-100575,Cognitive testing T1
+540,576,St. Olavs Hospital,1,0,sub-400576,Cognitive testing T1
+541,577,Haukeland Universitetssykehus, , ,sub-300577,
+542,578,St. Olavs Hospital, ,2,sub-400578,Cognitive testing T2
+543,579,St. Olavs Hospital, , ,sub-400579,
+544,580,"Oslo Universitetssykehus, Ullevål",2, ,sub-100580,Cognitive testing T1
+545,581,"Oslo Universitetssykehus, Ullevål",1,1,sub-100581,Cognitive testing T1
+546,582,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221582,Cognitive testing T1
+547,583,Haukeland Universitetssykehus, , ,sub-300583,
+548,584,St. Olavs Hospital,1, ,sub-400584,Cognitive testing T1
+549,585,Haukeland Universitetssykehus, , ,sub-300585,
+550,586,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221586,Cognitive testing T1
+551,587,Haukeland Universitetssykehus, , ,sub-300587,
+552,589,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221589,Cognitive testing T1
+553,590,"Oslo Universitetssykehus, Ullevål",2,2,sub-100590,Cognitive testing T1
+554,591,St. Olavs Hospital, , ,sub-400591,
+555,592,St. Olavs Hospital, ,0,sub-400592,Cognitive testing T2
+556,593,St. Olavs Hospital, , ,sub-400593,
+557,594,Haukeland Universitetssykehus,0,0,sub-300594,Cognitive testing T1
+558,595,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221595,
+559,596,Haukeland Universitetssykehus,1,0,sub-300596,Cognitive testing T1
+560,597,"Vestre Viken HF, Sykehuset Asker og Bær",2,1,sub-221597,Cognitive testing T1
+561,598,"Oslo Universitetssykehus, Ullevål",0,1,sub-100598,Cognitive testing T1
+562,599,Haukeland Universitetssykehus,0,0,sub-300599,Cognitive testing T1
+563,600,Haukeland Universitetssykehus,2, ,sub-300600,Cognitive testing T1
+564,601,"Oslo Universitetssykehus, Ullevål",0,1,sub-100601,Cognitive testing T1
+565,602,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221602,Cognitive testing T1
+566,603,Haukeland Universitetssykehus, , ,sub-300603,
+567,605,St. Olavs Hospital, ,0,sub-400605,Cognitive testing T2
+568,606,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221606,Cognitive testing T1
+569,607,"Oslo Universitetssykehus, Ullevål",2,2,sub-100607,Cognitive testing T1
+570,608,"Oslo Universitetssykehus, Ullevål",2,2,sub-100608,Cognitive testing T1
+571,609,"Vestre Viken HF, Sykehuset Asker og Bær",1,0,sub-221609,Cognitive testing T1
+572,610,Ålesund sykehus,2,2,sub-410610,Cognitive testing T1
+573,611,St. Olavs Hospital, , ,sub-400611,
+574,612,St. Olavs Hospital,0,1,sub-400612,Cognitive testing T1
+575,613,St. Olavs Hospital,1, ,sub-400613,Cognitive testing T1
+576,614,St. Olavs Hospital, , ,sub-400614,
+577,615,"Vestre Viken HF, Sykehuset Asker og Bær",2,0,sub-221615,Cognitive testing T1
+578,616,"Oslo Universitetssykehus, Ullevål",2, ,sub-100616,Cognitive testing T1
+579,617,"Vestre Viken HF, Sykehuset Asker og Bær",2, ,sub-221617,Cognitive testing T1
+580,618,St. Olavs Hospital,0,1,sub-400618,Cognitive testing T1
+581,619,Ålesund sykehus,1,1,sub-410619,Cognitive testing T1
+582,620,"Vestre Viken HF, Sykehuset Asker og Bær",0, ,sub-221620,Cognitive testing T1
+583,621,St. Olavs Hospital,0,1,sub-400621,Cognitive testing T1
+584,622,Haukeland Universitetssykehus, , ,sub-300622,
+585,623,St. Olavs Hospital,2,2,sub-400623,Cognitive testing T1
+586,624,"Vestre Viken HF, Sykehuset Asker og Bær",0, ,sub-221624,Cognitive testing T1
+587,625,St. Olavs Hospital,0,0,sub-400625,Cognitive testing T1
+588,626,Ålesund sykehus, , ,sub-410626,
+589,627,Haukeland Universitetssykehus,0,0,sub-300627,Cognitive testing T1
+590,628,St. Olavs Hospital,1,1,sub-400628,Cognitive testing T1
+591,629,Haukeland Universitetssykehus, ,0,sub-300629,Cognitive testing T2
+592,630,Haukeland Universitetssykehus, , ,sub-300630,
+593,631,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221631,Cognitive testing T1
+594,632,Haukeland Universitetssykehus,0,0,sub-300632,Cognitive testing T1
+595,633,Haukeland Universitetssykehus,0,0,sub-300633,Cognitive testing T1
+596,634,St. Olavs Hospital,2, ,sub-400634,Cognitive testing T1
+597,635,St. Olavs Hospital, , ,sub-400635,
+598,636,"Vestre Viken HF, Sykehuset Asker og Bær", , ,sub-221636,
+599,637,St. Olavs Hospital,1,0,sub-400637,Cognitive testing T1
+600,638,"Vestre Viken HF, Sykehuset Asker og Bær",2, ,sub-221638,Cognitive testing T1
+601,639,St. Olavs Hospital,1,0,sub-400639,Cognitive testing T1
+602,640,"Oslo Universitetssykehus, Ullevål",2, ,sub-100640,Cognitive testing T1
+603,641,St. Olavs Hospital,0,1,sub-400641,Cognitive testing T1
+604,642,Haukeland Universitetssykehus,0,0,sub-300642,Cognitive testing T1
+605,643,Ålesund sykehus,0,2,sub-410643,Cognitive testing T1
+606,644,St. Olavs Hospital, , ,sub-400644,
+607,645,St. Olavs Hospital,0,1,sub-400645,Cognitive testing T1
+608,646,"Oslo Universitetssykehus, Ullevål", , ,sub-100646,
+609,647,St. Olavs Hospital, , ,sub-400647,
+610,648,"Oslo Universitetssykehus, Ullevål",1,2,sub-100648,Cognitive testing T1
+611,649,St. Olavs Hospital, , ,sub-400649,
+612,650,St. Olavs Hospital,2,2,sub-400650,Cognitive testing T1
+613,651,"Oslo Universitetssykehus, Ullevål",2,2,sub-100651,Cognitive testing T1
+614,652,St. Olavs Hospital,2, ,sub-400652,Cognitive testing T1
+615,653,"Vestre Viken HF, Sykehuset Asker og Bær",0,2,sub-221653,Cognitive testing T1
+616,654,Haukeland Universitetssykehus, , ,sub-300654,
+617,655,Ålesund sykehus,0,0,sub-410655,Cognitive testing T1
+618,656,St. Olavs Hospital, , ,sub-400656,
+619,657,Haukeland Universitetssykehus,1,2,sub-300657,Cognitive testing T1
+620,658,St. Olavs Hospital,2,2,sub-400658,Cognitive testing T1
+621,659,Ålesund sykehus,2, ,sub-410659,Cognitive testing T1
+622,660,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221660,Cognitive testing T1
+623,661,Ålesund sykehus, , ,sub-410661,
+624,662,"Vestre Viken HF, Sykehuset Asker og Bær",2,2,sub-221662,Cognitive testing T1
+625,664,St. Olavs Hospital, , ,sub-400664,
+626,665,St. Olavs Hospital, ,0,sub-400665,Cognitive testing T2
+627,666,"Oslo Universitetssykehus, Ullevål", , ,sub-100666,
+628,667,St. Olavs Hospital,1,1,sub-400667,Cognitive testing T1
+629,668,St. Olavs Hospital,0,0,sub-400668,Cognitive testing T1
+630,669,Haukeland Universitetssykehus, , ,sub-300669,
+631,670,Haukeland Universitetssykehus,1,0,sub-300670,Cognitive testing T1
+632,671,St. Olavs Hospital,2,2,sub-400671,Cognitive testing T1
+633,672,"Oslo Universitetssykehus, Ullevål",0,1,sub-100672,Cognitive testing T1
+634,674,St. Olavs Hospital,0,0,sub-400674,Cognitive testing T1
+635,675,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221675,Cognitive testing T1
+636,676,"Vestre Viken HF, Sykehuset Asker og Bær",1,1,sub-221676,Cognitive testing T1
+637,677,Haukeland Universitetssykehus,0,1,sub-300677,Cognitive testing T1
+638,678,St. Olavs Hospital, , ,sub-400678,
+639,679,Haukeland Universitetssykehus,1,0,sub-300679,Cognitive testing T1
+640,680,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221680,Cognitive testing T1
+641,681,St. Olavs Hospital,1,0,sub-400681,Cognitive testing T1
+642,682,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221682,Cognitive testing T1
+643,683,St. Olavs Hospital,0,0,sub-400683,Cognitive testing T1
+644,684,Haukeland Universitetssykehus,1,1,sub-300684,Cognitive testing T1
+645,685,Ålesund sykehus, , ,sub-410685,
+646,686,"Oslo Universitetssykehus, Ullevål",0,0,sub-100686,Cognitive testing T1
+647,687,Haukeland Universitetssykehus, ,0,sub-300687,Cognitive testing T2
+648,688,"Vestre Viken HF, Sykehuset Asker og Bær",0,0,sub-221688,Cognitive testing T1
+649,689,St. Olavs Hospital,0,0,sub-400689,Cognitive testing T1
+650,690,St. Olavs Hospital,2,0,sub-400690,Cognitive testing T1
+651,691,"Vestre Viken HF, Sykehuset Asker og Bær",0, ,sub-221691,Cognitive testing T1
+652,692,Ålesund sykehus,0,0,sub-410692,Cognitive testing T1
+653,693,St. Olavs Hospital, , ,sub-400693,
+654,694,"Oslo Universitetssykehus, Ullevål",0,1,sub-100694,Cognitive testing T1
+655,695,St. Olavs Hospital,1, ,sub-400695,Cognitive testing T1
+656,696,St. Olavs Hospital,1, ,sub-400696,Cognitive testing T1
+657,697,"Oslo Universitetssykehus, Ullevål", ,2,sub-100697,Cognitive testing T2
+658,698,St. Olavs Hospital,0,0,sub-400698,Cognitive testing T1
+659,699,Ålesund sykehus,2, ,sub-410699,Cognitive testing T1
+660,700,Ålesund sykehus, , ,sub-410700,
+661,702,Haukeland Universitetssykehus, , ,sub-300702,
+662,703,St. Olavs Hospital,1,1,sub-400703,Cognitive testing T1
+663,704,St. Olavs Hospital,2,2,sub-400704,Cognitive testing T1
+664,706,"Oslo Universitetssykehus, Ullevål", , ,sub-100706,
+665,707,Haukeland Universitetssykehus, , ,sub-300707,
+666,708,"Oslo Universitetssykehus, Ullevål",1,0,sub-100708,Cognitive testing T1
+667,709,Haukeland Universitetssykehus, ,2,sub-300709,Cognitive testing T2
+668,710,Haukeland Universitetssykehus,0,0,sub-300710,Cognitive testing T1
+669,711,Haukeland Universitetssykehus, , ,sub-300711,
+670,712,St. Olavs Hospital,0,0,sub-400712,Cognitive testing T1
+671,713,Haukeland Universitetssykehus,2,2,sub-300713,Cognitive testing T1
+672,714,Ålesund sykehus, , ,sub-410714,
+673,715,"Oslo Universitetssykehus, Ullevål",0,1,sub-100715,Cognitive testing T1
+674,716,"Oslo Universitetssykehus, Ullevål",1,1,sub-100716,Cognitive testing T1
+675,717,Haukeland Universitetssykehus,0,0,sub-300717,Cognitive testing T1
+676,718,St. Olavs Hospital,0,0,sub-400718,Cognitive testing T1
+677,719,St. Olavs Hospital,2, ,sub-400719,Cognitive testing T1
+678,720,St. Olavs Hospital,2,2,sub-400720,Cognitive testing T1
+679,721,St. Olavs Hospital, , ,sub-400721,
+680,722,"Oslo Universitetssykehus, Ullevål",0,1,sub-100722,Cognitive testing T1
+681,723,"Oslo Universitetssykehus, Ullevål", ,0,sub-100723,Cognitive testing T2
+682,724,Haukeland Universitetssykehus,0,0,sub-300724,Cognitive testing T1
+683,725,St. Olavs Hospital, , ,sub-400725,
+684,726,St. Olavs Hospital,1,1,sub-400726,Cognitive testing T1
+685,727,Ålesund sykehus,2,0,sub-410727,Cognitive testing T1
+686,728,Haukeland Universitetssykehus,0,0,sub-300728,Cognitive testing T1
+687,729,St. Olavs Hospital,2, ,sub-400729,Cognitive testing T1
+688,730,Ålesund sykehus,0,0,sub-410730,Cognitive testing T1
+689,731,St. Olavs Hospital, , ,sub-400731,
+690,732,Haukeland Universitetssykehus,0, ,sub-300732,Cognitive testing T1
+691,733,St. Olavs Hospital,0,1,sub-400733,Cognitive testing T1
+692,734,St. Olavs Hospital,1,2,sub-400734,Cognitive testing T1
+693,735,"Oslo Universitetssykehus, Ullevål",1,1,sub-100735,Cognitive testing T1
+694,736,"Oslo Universitetssykehus, Ullevål",2,2,sub-100736,Cognitive testing T1
+695,737,"Oslo Universitetssykehus, Ullevål",1,1,sub-100737,Cognitive testing T1
+696,738,Haukeland Universitetssykehus,0,0,sub-300738,Cognitive testing T1
+697,739,St. Olavs Hospital,0, ,sub-400739,Cognitive testing T1
+698,740,St. Olavs Hospital,1,1,sub-400740,Cognitive testing T1
+699,741,St. Olavs Hospital,1,1,sub-400741,Cognitive testing T1
+700,742,St. Olavs Hospital,0, ,sub-400742,Cognitive testing T1
+701,743,Haukeland Universitetssykehus,2, ,sub-300743,Cognitive testing T1
+702,744,"Oslo Universitetssykehus, Ullevål",1,0,sub-100744,Cognitive testing T1
+703,745,Ålesund sykehus, , ,sub-410745,
+704,746,St. Olavs Hospital,1,1,sub-400746,Cognitive testing T1
+705,747,Haukeland Universitetssykehus,1,0,sub-300747,Cognitive testing T1
+706,748,Ålesund sykehus, , ,sub-410748,
+707,749,Ålesund sykehus,1, ,sub-410749,Cognitive testing T1
+708,750,"Oslo Universitetssykehus, Ullevål", , ,sub-100750,
+709,751,Haukeland Universitetssykehus,1,0,sub-300751,Cognitive testing T1
+710,752,Haukeland Universitetssykehus, , ,sub-300752,
+711,753,St. Olavs Hospital,1,1,sub-400753,Cognitive testing T1
+712,754,St. Olavs Hospital,2,0,sub-400754,Cognitive testing T1
+713,755,Haukeland Universitetssykehus, ,0,sub-300755,Cognitive testing T2
+714,756,St. Olavs Hospital,0,2,sub-400756,Cognitive testing T1
+715,757,St. Olavs Hospital,1, ,sub-400757,Cognitive testing T1
+716,758,Haukeland Universitetssykehus,0,1,sub-300758,Cognitive testing T1
+717,759,Haukeland Universitetssykehus,1, ,sub-300759,Cognitive testing T1
+718,760,Haukeland Universitetssykehus,1,0,sub-300760,Cognitive testing T1
+719,761,"Oslo Universitetssykehus, Ullevål",1,0,sub-100761,Cognitive testing T1
+720,762,St. Olavs Hospital, , ,sub-400762,
+721,763,"Oslo Universitetssykehus, Ullevål",2, ,sub-100763,Cognitive testing T1
+722,764,"Oslo Universitetssykehus, Ullevål",1, ,sub-100764,Cognitive testing T1
+723,765,Haukeland Universitetssykehus,0,0,sub-300765,Cognitive testing T1
+724,766,St. Olavs Hospital,2, ,sub-400766,Cognitive testing T1
+725,767,St. Olavs Hospital,1, ,sub-400767,Cognitive testing T1
+726,768,St. Olavs Hospital,0,0,sub-400768,Cognitive testing T1
+727,769,St. Olavs Hospital,0,0,sub-400769,Cognitive testing T1
+728,770,St. Olavs Hospital,0,0,sub-400770,Cognitive testing T1
+729,771,St. Olavs Hospital,0,0,sub-400771,Cognitive testing T1
+730,772,St. Olavs Hospital,2, ,sub-400772,Cognitive testing T1
+731,773,St. Olavs Hospital,1,1,sub-400773,Cognitive testing T1
+732,775,"Oslo Universitetssykehus, Ullevål",0, ,sub-100775,Cognitive testing T1
+733,776,"Oslo Universitetssykehus, Ullevål",0,0,sub-100776,Cognitive testing T1
+734,777,St. Olavs Hospital, , ,sub-400777,
+735,778,St. Olavs Hospital,1,0,sub-400778,Cognitive testing T1
+736,779,St. Olavs Hospital,1,0,sub-400779,Cognitive testing T1
+737,780,St. Olavs Hospital,2, ,sub-400780,Cognitive testing T1
+738,781,St. Olavs Hospital,1,0,sub-400781,Cognitive testing T1
+739,782,Ålesund sykehus,0,0,sub-410782,Cognitive testing T1
+740,783,"Oslo Universitetssykehus, Ullevål",0,0,sub-100783,Cognitive testing T1
+741,784,"Oslo Universitetssykehus, Ullevål",1,1,sub-100784,Cognitive testing T1
+742,785,St. Olavs Hospital,0,0,sub-400785,Cognitive testing T1
+743,786,St. Olavs Hospital,0, ,sub-400786,Cognitive testing T1
+744,787,St. Olavs Hospital, , ,sub-400787,
+745,788,St. Olavs Hospital,0,0,sub-400788,Cognitive testing T1
+746,789,"Oslo Universitetssykehus, Ullevål",0,0,sub-100789,Cognitive testing T1
+747,790,"Oslo Universitetssykehus, Ullevål",0,0,sub-100790,Cognitive testing T1
+748,791,"Oslo Universitetssykehus, Ullevål",0,1,sub-100791,Cognitive testing T1
+749,792,"Oslo Universitetssykehus, Ullevål",0,0,sub-100792,Cognitive testing T1
+750,793,St. Olavs Hospital,0,0,sub-400793,Cognitive testing T1
+751,794,"Oslo Universitetssykehus, Ullevål",2, ,sub-100794,Cognitive testing T1
+752,795,"Oslo Universitetssykehus, Ullevål",1, ,sub-100795,Cognitive testing T1
+753,796,St. Olavs Hospital,1,0,sub-400796,Cognitive testing T1
+754,797,St. Olavs Hospital, , ,sub-400797,
+755,798,St. Olavs Hospital,2, ,sub-400798,Cognitive testing T1
+756,799,"Oslo Universitetssykehus, Ullevål",0,1,sub-100799,Cognitive testing T1
+757,800,St. Olavs Hospital,0,0,sub-400800,Cognitive testing T1
+758,801,St. Olavs Hospital,2,2,sub-400801,Cognitive testing T1
+759,802,"Oslo Universitetssykehus, Ullevål",0,0,sub-100802,Cognitive testing T1
+760,803,St. Olavs Hospital,0,2,sub-400803,Cognitive testing T1
+761,804,St. Olavs Hospital, , ,sub-400804,
+762,805,St. Olavs Hospital,1,0,sub-400805,Cognitive testing T1
+763,806,St. Olavs Hospital,0,2,sub-400806,Cognitive testing T1
+764,807,St. Olavs Hospital,2, ,sub-400807,Cognitive testing T1
+765,808,"Oslo Universitetssykehus, Ullevål",1,1,sub-100808,Cognitive testing T1
+766,809,"Oslo Universitetssykehus, Ullevål",1,1,sub-100809,Cognitive testing T1
+767,810,St. Olavs Hospital, , ,sub-400810,
+768,811,St. Olavs Hospital, , ,sub-400811,
+769,812,St. Olavs Hospital,0,0,sub-400812,Cognitive testing T1
+770,813,St. Olavs Hospital, , ,sub-400813,
+771,814,St. Olavs Hospital,0,0,sub-400814,Cognitive testing T1
+772,815,Ålesund sykehus,2,2,sub-410815,Cognitive testing T1
+773,816,Ålesund sykehus,1,1,sub-410816,Cognitive testing T1
+774,817,"Oslo Universitetssykehus, Ullevål", ,2,sub-100817,Cognitive testing T2
+775,818,"Oslo Universitetssykehus, Ullevål", , ,sub-100818,
+776,819,St. Olavs Hospital,1, ,sub-400819,Cognitive testing T1
+777,820,St. Olavs Hospital, , ,sub-400820,
+778,821,St. Olavs Hospital, , ,sub-400821,
+779,822,Ålesund sykehus,0, ,sub-410822,Cognitive testing T1
+780,823,St. Olavs Hospital,0, ,sub-400823,Cognitive testing T1
+781,824,Ålesund sykehus,1, ,sub-410824,Cognitive testing T1
+782,825,Ålesund sykehus,1,1,sub-410825,Cognitive testing T1
+783,826,St. Olavs Hospital,1,1,sub-400826,Cognitive testing T1
+784,827,St. Olavs Hospital, , ,sub-400827,
+785,828,St. Olavs Hospital,0,0,sub-400828,Cognitive testing T1
+786,829,Ålesund sykehus, , ,sub-410829,
+787,830,"Oslo Universitetssykehus, Ullevål",2,2,sub-100830,Cognitive testing T1
+788,831,Ålesund sykehus, , ,sub-410831,
+789,832,Ålesund sykehus,0, ,sub-410832,Cognitive testing T1
+790,833,St. Olavs Hospital,0,1,sub-400833,Cognitive testing T1
+791,834,"Oslo Universitetssykehus, Ullevål",1,0,sub-100834,Cognitive testing T1
+792,835,"Oslo Universitetssykehus, Ullevål",1,0,sub-100835,Cognitive testing T1
+793,836,"Oslo Universitetssykehus, Ullevål", , ,sub-100836,
+794,837,"Oslo Universitetssykehus, Ullevål", , ,sub-100837,
+795,838,St. Olavs Hospital,1,1,sub-400838,Cognitive testing T1
+796,839,St. Olavs Hospital,0,0,sub-400839,Cognitive testing T1
+797,840,St. Olavs Hospital,2,2,sub-400840,Cognitive testing T1
+798,841,St. Olavs Hospital,0,0,sub-400841,Cognitive testing T1
+799,842,St. Olavs Hospital,2, ,sub-400842,Cognitive testing T1
+800,843,St. Olavs Hospital,2, ,sub-400843,Cognitive testing T1
+801,845,St. Olavs Hospital,2, ,sub-400845,Cognitive testing T1
+802,846,Ålesund sykehus,2,0,sub-410846,Cognitive testing T1
+803,847,St. Olavs Hospital,1, ,sub-400847,Cognitive testing T1
+804,848,Ålesund sykehus, , ,sub-410848,
+805,849,Ålesund sykehus,1, ,sub-410849,Cognitive testing T1
+806,850,Ålesund sykehus, , ,sub-410850,
+807,851,St. Olavs Hospital,2,2,sub-400851,Cognitive testing T1
+808,852,Ålesund sykehus,2,2,sub-410852,Cognitive testing T1
+809,853,Ålesund sykehus, ,2,sub-410853,Cognitive testing T2
+810,854,St. Olavs Hospital,1,0,sub-400854,Cognitive testing T1
+811,855,St. Olavs Hospital,0,0,sub-400855,Cognitive testing T1
+812,856,St. Olavs Hospital,1, ,sub-400856,Cognitive testing T1
+813,857,St. Olavs Hospital,2,2,sub-400857,Cognitive testing T1
+814,858,Ålesund sykehus, , ,sub-410858,
