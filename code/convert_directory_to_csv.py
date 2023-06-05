@@ -2,14 +2,14 @@
 from pathlib import Path
 import pandas as pd
 
-dwi_mask_dir = Path('/mnt/HDD16TB/till/ingrid/')
-masks = [f for f in dwi_mask_dir.glob('**/*') if f.is_file() and 'mask' in f.name]
+# dwi_mask_dir = Path('/mnt/HDD16TB/till/ingrid/')
+stolav_36 = Path('/Volumes/Photo_BU/nc_36_mon_zips/StOlav_T3/')
+
+stolav_all_36 = [f for f in stolav_36.glob('*.zip')]
 
 subjects = []
-for s in masks:
-    s_id = s.parts[5]
-    subjects.append(s_id)
+for s in stolav_all_36:
+    s_id = s.name.split('_')[0]
+    subjects.append('sub-'+s_id)
     
-pd.DataFrame({'subject-id':subjects, 'DWI-segmentation':True})
-
-pd.DataFrame({'subject-id':subjects, 'DWI-segmentation':True}).to_csv('DWI_segmentations.csv')
+pd.DataFrame({'subject-id':subjects, 'stolav_36':True}).to_csv('st_olav_36.csv')
